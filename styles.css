@@ -45,8 +45,8 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #3498db, #8e44ad);
-    color: white;
+
+    color: #c11212;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -76,9 +76,8 @@ body {
 }
 
 .about-section img {
-    border-radius: 50%;
-    width: 150px;
-    margin: 20px 0;
+    border-radius: 100%;
+    width: 180px;
 }
 
 /* Projects Section */
