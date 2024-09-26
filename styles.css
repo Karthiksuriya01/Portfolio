@@ -45,8 +45,11 @@ body {
 
 /* Hero Section */
 .hero {
-
-    color: #c11212;
+    background-image: url('https://st2.depositphotos.com/2605379/7404/i/450/depositphotos_74045797-stock-photo-work-space-with-computer-and.jpg');
+    opacity: 0.2;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #f1e7e7;
     height: 100vh;
     display: flex;
     align-items: center;
